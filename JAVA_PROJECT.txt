@@ -1,0 +1,201 @@
+  /* Add After If
+            System.out.println(ANSI_BLUE + "\n\n\n\t\t\t\t:-----------------Menu--------------:" + ANSI_RESET);
+            System.out.println(ANSI_BLUE + "\t\t\t\t|\t\t\t1.Team\t\t\t\t\t| \n  \t\t\t\t|\t\t\t2.Stadium\t\t\t\t|  \n   \t\t\t\t|\t\t\t3.Ticket Booking\t\t|    \n   \t\t\t\t|\t\t\t4.About Us\t\t\t\t|" + ANSI_RESET);
+            System.out.println(ANSI_BLUE + "\t\t\t\t:-----------------------------------:\n" + ANSI_RESET);
+            */
+
+
+            
+(1) UserName
+(2) Phone Number
+(3) Password & Comform Password
+(4) Email
+(5) Address
+
+Login :-
+(1) Username or Email
+(2) Password
+
+
+
+
+
+
+if [Register & Login Cre Write]
+{
+
+1.Team
+2.Stadium 
+3.Ticket Booking
+4.About Us
+-----------------------------
+
+1. Team
+```
+(1) MI-------------------------------
+		{1} Coach
+		{2}	Wiki
+		{3} Bat
+				[1]Sharma
+				[2]Hardik
+				.
+				.
+				.
+
+		{4} Ball
+		{5} All
+
+(2) CSK-------------------------------
+		{1} Coach
+		{2}	Wiki
+		{3} Bat
+		{4} Ball
+		{5} All
+		.
+		.
+		.
+		.
+		.
+
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+```
+
+
+2.Stadium
+```
+(1) -------------------------------
+		{1} Home Team
+				[1] Team Detail
+				[2] Return Home 
+				.
+				.
+				.
+				.
+				.
+
+		{2} Maches
+		{3} About Stadium
+(2) -------------------------------
+		{1} Home Team
+				[1] Team Detail
+				[2] Return Home 
+				.
+				.
+				.
+				.
+				.
+		{2} Maches
+		{3} About Stadium
+(3) -------------------------------
+		.
+		.
+		.
+		.
+		.
+(4)
+(5)
+(6)
+(7)
+(8)
+```
+
+
+3.Ticket Booking
+```
+*-*-*-*-*-*-*-*-*-*-*-*-**-*-*-*-*-*-*-*-*-*-*-*-*-
+Select Any 1 Stadium From
+
+(1) IS Bindra Stadium (Kings XI Punjab)
+
+		Select Respective Match
+		{1} MI vs CSK
+
+			    Pay and Download Recipt if ()
+			    {
+
+			    [1].  1.Name 2.Phone Number 3.Email 4.Address
+				
+				[2].  1.Bronze=500 2.Silver=1000 3.Gold=1500 4.Platinum=2000 5.VIP_BOX=2500
+
+				[3].  Enter Total Number of Ticket : 
+
+				[4].  Your Ticket Number : (Random)
+
+				[5].  Your Gate Number : (Random 1 to 15)
+
+				[6].  Total Amount to pay :
+
+				}
+
+				Your Details 
+
+				Fetch Everything
+				Return Home.
+				GOTO(HOME);
+
+
+
+		{2}
+				 SRH vs MI
+
+				 		Pay and Download Recipt if ()
+			    {
+
+			    [1].  1.Name 2.Phone Number 3.Email 4.Address
+				
+				[2].  1.Bronze=500 2.Silver=1000 3.Gold=1500 4.Platinum=2000 5.VIP_BOX=2500
+
+				[3].  Enter Total Number of Ticket : 
+
+				[4].  Your Ticket Number : (Random)
+
+				[5].  Your Gate Number : (Random 1 to 15)
+
+				[6].  Total Amount to pay :
+
+				}
+
+				Your Details 
+
+				Fetch Everything
+				Return Home.
+				GOTO(HOME);
+
+(2) Eden Gardens (Kolkata Knight Riders)
+
+		Select Respective Match
+		{1} MI vs CSK
+		{2} SRH vs MI
+		.
+		.
+		.
+		.
+		.
+
+(3) Wankhede Stadium (Mumbai Indians)
+(4) Sawai Mansingh Stadium (Rajasthan Royals) 
+(5) M. Chinnaswamy Stadium (Royal Challengers Bangalore)
+(6) Feroz Shah Kotla (Delhi Capitals)
+(7) Rajiv Gandhi International Cricket Stadium (Sunrisers Hyderabad)
+(8) Sawai Mansingh Stadium (Rajasthan Royals) 
+*-*-*-*-*-*-*-*-*-*-*-*-**-*-*-*-*-*-*-*-*-*-*-*-*-
+
+
+```
+
+
+4.About us
+```
+
+```
+}
+
+
+
+
+

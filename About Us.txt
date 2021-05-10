@@ -1,0 +1,58 @@
+Stadium Ticket Reservation Management System
+Java Project
+Done by:
+
+Zeel Nariya (074)
+Tejasya Vasani (077)
+Keval Vora (065)
+Priyanshi Ajagiya (080)
+
+
+Supervisor:
+
+Prof.Smit Thacker
+
+The problem with today’s stadium ticketing method is that you have to show up early so you can find a parking spot and choose a good seat. In addition, it is not guaranteed to get them. However, with this online ticketing system you will book the seat you like and a parking spot will be saved for you. Therefore, you can attend the game just a few minutes before the referee's whistle.
+
+To create a website system for managing ticket reservations and make it easier for the user to book the ticket and pay electronically.
+
+Thanks For Your Attention
+
+The aim of the project is to create a system which makes it easier for the ticket purchaser, select seat that they want and give them parking spot depending on the categories selected, ticket purchaser can also view team details and player details via this project and can also view the stadium details and fixtures arranged in those stadiums in near future, this modern system will make it easier to organize the stadium.
+
+Possibility to choose the appropriate category seats.
+Prevent crowding at the ticket office.
+Attending the game few minutes before the match begins.
+To give the users the option to view details about their teams.
+Buy a ticket electronically through the website.
+Limiting the black market activity by making the maximum number of tickets to be bought is five tickets per user.
+As there are many methods that are applied for different developments, we will clarify here the method that we are following along with the used model. Since we have a set of understood and fixed requirements at this stage of development, we adopted the waterfall model that shown here.
+
+Sequence diagram/Ticket
+
+Reservation
+
+Functional requirements/User
+• Java IDE
+• JDK
+To conclude our project, which contributes to facilitate and motivate the fans to come to the most number of matchs.
+
+Our project through purchasing tickets, choosing the appropriate seat, logging in the app,the possibility of viewing details about their favourite teams, lack of early attendance for the match and all this will be done through our website system.
+
+The admin shall be able to modify match schedule in the project.
+The admin shall be able add stadium in the project.
+The admin shall be able edit stadium in the project.
+The admin shall be able cancel stadium in the project.
+The admin shall be able add match in the project.
+The admin shall be able edit match in the project.
+The admin shall be able cancel match in the project.
+The admin shall be able edit team details in the project.
+
+requirements/Admin
+The user shall be able to register in web site.
+The user shall be able to log-in web site.
+The user shall be able to select seat in any degrees in the web site.
+The user shall be able to payment by website or other place.
+The user shall be able to view match schedule in web site.
+The user shall be able to view team details in web site.
+The user shall be able to print ticket.
